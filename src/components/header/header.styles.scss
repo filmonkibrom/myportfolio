@@ -1,0 +1,62 @@
+.header {
+    top:0;
+    left:0;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 25px;
+    position: fixed;
+    overflow: hidden;
+    background-color: whitesmoke;
+    
+  
+    .options {
+      margin-right: 2%;
+      width: 50%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      
+  
+      .option {
+        padding: 10px 15px;
+        cursor: pointer;
+        font-weight: 900;
+        font-size: large;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        position: relative;
+        overflow: hidden;
+      
+
+        &:hover{
+          background-color: #ddd;
+          color: black;
+          border-radius: 2rem;
+        }
+
+        &:after {
+          content: "";
+          background: #2d3d2d;
+          display: flex;
+          position: absolute;
+          padding-top: 300%;
+          padding-left: 350%;
+          margin-left: -20px!important;
+          margin-top: -120%;
+          opacity: 0;
+          transition: all 0.8s
+        }
+        
+        &:active:after {
+          padding: 0;
+          margin: 0;
+          opacity: 1;
+          transition: 0s
+        }
+      }
+    }
+  }
+  
