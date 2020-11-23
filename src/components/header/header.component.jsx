@@ -11,7 +11,10 @@ const Header = () => (
         About
       </a>
       <a className='option'  href="#experience" >
-        Experience
+      Experience
+      </a>
+      <a className='option'  href="#projects" >
+      Projects
       </a>
       <a className='option' href='/#skills' >
           Skills

@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c94a87a.chunk.css",
+    "main.js": "/static/js/main.c895edfa.chunk.js",
+    "main.js.map": "/static/js/main.c895edfa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.7df41cd5.chunk.css": "/static/css/2.7df41cd5.chunk.css",
+    "static/js/2.cd9de4ef.chunk.js": "/static/js/2.cd9de4ef.chunk.js",
+    "static/js/2.cd9de4ef.chunk.js.map": "/static/js/2.cd9de4ef.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.280ae7f115bf5f8d7fc325275eebcaaf.js": "/precache-manifest.280ae7f115bf5f8d7fc325275eebcaaf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7df41cd5.chunk.css.map": "/static/css/2.7df41cd5.chunk.css.map",
+    "static/css/main.7c94a87a.chunk.css.map": "/static/css/main.7c94a87a.chunk.css.map",
+    "static/js/2.cd9de4ef.chunk.js.LICENSE.txt": "/static/js/2.cd9de4ef.chunk.js.LICENSE.txt",
+    "static/media/HVAC-engineer.jpeg": "/static/media/HVAC-engineer.bd973983.jpeg",
+    "static/media/Mechanical-Engineering.jpg": "/static/media/Mechanical-Engineering.e2201337.jpg",
+    "static/media/Type of Water Distribution Network.jpg": "/static/media/Type of Water Distribution Network.a1acdcbd.jpg",
+    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/css3.png": "/static/media/css3.aa12ff66.png",
+    "static/media/filmoln.jpg": "/static/media/filmoln.fdd3f7f2.jpg",
+    "static/media/freelance-web-developer.jpg": "/static/media/freelance-web-developer.9beff169.jpg",
+    "static/media/html5.jpg": "/static/media/html5.c4efe678.jpg",
+    "static/media/nodejs.jpg": "/static/media/nodejs.0714c3dd.jpg",
+    "static/media/reactjs.png": "/static/media/reactjs.f78f394e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.7df41cd5.chunk.css",
+    "static/js/2.cd9de4ef.chunk.js",
+    "static/css/main.7c94a87a.chunk.css",
+    "static/js/main.c895edfa.chunk.js"
+  ]
+}

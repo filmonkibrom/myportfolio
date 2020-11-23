@@ -31,6 +31,7 @@ const ContactForm=()=> {
           paddingBottom:"50px"
         }}
       >
+        
         <form
           className="contact-form"
           id="contact-form"
@@ -45,6 +46,8 @@ const ContactForm=()=> {
             borderradius:"",
           }}
         >
+        Phone: (314) 239 3150<br/>
+        Email: kibromfilmon@gmail.com
           <TextField
             label="Name"
             type="text"
